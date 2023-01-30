@@ -1,0 +1,7 @@
+D:\OneDrive\Desktop\c#\variables\variables\bin\Debug\variables.exe.config
+D:\OneDrive\Desktop\c#\variables\variables\bin\Debug\variables.exe
+D:\OneDrive\Desktop\c#\variables\variables\bin\Debug\variables.pdb
+D:\OneDrive\Desktop\c#\variables\variables\obj\Debug\variables.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\c#\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\c#\variables\variables\obj\Debug\variables.exe
+D:\OneDrive\Desktop\c#\variables\variables\obj\Debug\variables.pdb

@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\bin\Debug\working_with_numbers.exe.config
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\bin\Debug\working_with_numbers.exe
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\bin\Debug\working_with_numbers.pdb
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\obj\Debug\working_with_numbers.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\obj\Debug\working_with_numbers.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\obj\Debug\working_with_numbers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\obj\Debug\working_with_numbers.exe
+D:\OneDrive\Desktop\c#\working_with_numbers\working_with_numbers\obj\Debug\working_with_numbers.pdb

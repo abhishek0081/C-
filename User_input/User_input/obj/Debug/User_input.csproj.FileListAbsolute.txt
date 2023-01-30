@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\c#\User_input\User_input\bin\Debug\User_input.exe.config
+D:\OneDrive\Desktop\c#\User_input\User_input\bin\Debug\User_input.exe
+D:\OneDrive\Desktop\c#\User_input\User_input\bin\Debug\User_input.pdb
+D:\OneDrive\Desktop\c#\User_input\User_input\obj\Debug\User_input.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\c#\User_input\User_input\obj\Debug\User_input.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\c#\User_input\User_input\obj\Debug\User_input.exe
+D:\OneDrive\Desktop\c#\User_input\User_input\obj\Debug\User_input.pdb
+D:\OneDrive\Desktop\c#\User_input\User_input\obj\Debug\User_input.csproj.AssemblyReference.cache

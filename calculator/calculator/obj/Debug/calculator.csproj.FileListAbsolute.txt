@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\c#\calculator\calculator\bin\Debug\calculator.exe.config
+D:\OneDrive\Desktop\c#\calculator\calculator\bin\Debug\calculator.exe
+D:\OneDrive\Desktop\c#\calculator\calculator\bin\Debug\calculator.pdb
+D:\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.exe
+D:\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.pdb
+D:\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache

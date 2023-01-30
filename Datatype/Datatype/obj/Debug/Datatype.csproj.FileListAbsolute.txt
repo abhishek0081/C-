@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\c#\Datatype\Datatype\bin\Debug\Datatype.exe.config
+D:\OneDrive\Desktop\c#\Datatype\Datatype\bin\Debug\Datatype.exe
+D:\OneDrive\Desktop\c#\Datatype\Datatype\bin\Debug\Datatype.pdb
+D:\OneDrive\Desktop\c#\Datatype\Datatype\obj\Debug\Datatype.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\c#\Datatype\Datatype\obj\Debug\Datatype.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\c#\Datatype\Datatype\obj\Debug\Datatype.exe
+D:\OneDrive\Desktop\c#\Datatype\Datatype\obj\Debug\Datatype.pdb
+D:\OneDrive\Desktop\c#\Datatype\Datatype\obj\Debug\Datatype.csproj.AssemblyReference.cache

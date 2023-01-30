@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\bin\Debug\working_with_Strings.exe.config
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\bin\Debug\working_with_Strings.exe
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\bin\Debug\working_with_Strings.pdb
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\obj\Debug\working_with_Strings.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\obj\Debug\working_with_Strings.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\obj\Debug\working_with_Strings.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\obj\Debug\working_with_Strings.exe
+D:\OneDrive\Desktop\c#\working_with_Strings\working_with_Strings\obj\Debug\working_with_Strings.pdb
